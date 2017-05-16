@@ -1,0 +1,147 @@
+.modal-title i {
+    margin-right: 10px;
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+.select2-hidden-accessible {
+    display: none;
+}
+
+.myBoxStyle1 {
+    height: 100px;
+    overflow: auto !important;
+
+}
+
+.myBoxStyle2 {
+    height: 170px;
+    overflow: auto !important;
+}
+
+.myBoxStyle3 {
+    height: 250px;
+    overflow: auto !important;
+}
+
+.myCaseInitStyle {
+    cursor: pointer;
+}
+
+.dropdown-menu .fa-trash {
+    margin-right: 5px;
+    font-size: 18px;
+    color: #a65858;
+}
+
+.dropdown-menu .fa-times {
+    margin-right: 5px;
+    font-size: 18px;
+    color: #ac5287;
+}
+
+.dropdown-menu .fa-arrows-v {
+    margin-right: 11px;
+    font-size: 18px;
+    color: #a90329;
+}
+
+.myDesignationRea {
+    cursor: pointer;
+    -webkit-user-select: none;
+
+}
+
+.myCase2initStyle {
+    background-color: white;
+}
+
+.myCase2planStyle {
+    background-color: rgb(84, 101, 113);
+}
+
+#_box_form_feuil_rea_tab .btn-default.active {
+    color: #fff;
+    background-color: #739e73;
+    border-color: #659265;
+}
+
+.scroll-box {
+    width: 80%;
+    height: 1.2em;
+    overflow: hidden;
+    position: relative;
+}
+
+.scroll-text {
+    position: absolute;
+    white-space: nowrap;
+}
+
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 17px;
+    font-weight: 200;
+    color: #fff;
+    line-height: 1;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-align: center;
+    background-color: #999;
+    border-radius: 10px;
+}
+
+.myTableStyle, .myTableStyle > tbody > tr > td, .myTableStyle > tbody > tr > th, .myTableStyle > tfoot > tr > td, .myTableStyle > tfoot > tr > th, .myTableStyle > thead > tr > td, .myTableStyle > thead > tr > th {
+    border: 1px solid #A6A6A6;
+}
+
+.myTableStyle > thead > tr > td, .myTableStyle > thead > tr > th {
+    border-bottom-width: 2px;
+}
+
+.dropdown-menu li {
+    font-weight: bold;
+    margin: 2px;
+    font-size: 14px;
+}
+
+.dropdown-menu li i {
+    font-size: 18px;
+}
+
+.minified .myLabelMenuStyle {
+    padding: 5px;
+    margin-left: -1px;
+}
+
+.myLabelMenuStyle {
+    padding: 5px;
+    margin-left: 0px;
+    margin-right: 6px;
+}
+
+#header .select2-drop-active {
+    font-size: 60px !important;
+}
+
+.myDropDoxnStyle_L {
+    width: 600px !important;
+}
+
+.myDropDoxnStyle_M {
+    width: 400px !important;
+}
+
+.myDropDoxnStyle_XS {
+    width: 300px !important;
+}
+
+.myDropDoxnStyle_XXS {
+    width: 250px !important;
+}
+
+#header .select2-chosen {
+    font-size: 13px;
+}

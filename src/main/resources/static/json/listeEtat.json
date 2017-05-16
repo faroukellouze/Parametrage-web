@@ -1,0 +1,27 @@
+[
+   {
+      "codEta": "1",
+      "color": "&H8080FF",
+      "designationAr": "Réservée"
+   },
+   {
+      "codEta": "2",
+      "color": "&HC0",
+      "designationAr": "Occupée"
+   },
+   {
+      "codEta": "3",
+      "color": "&HC0E0FF",
+      "designationAr": "Libre"
+   },
+   {
+      "codEta": "4",
+      "color": "&H808080",
+      "designationAr": "Réparation"
+   },
+   {
+      "codEta": "5",
+      "color": "&HC0FFC0",
+      "designationAr": "Prête"
+   }
+]

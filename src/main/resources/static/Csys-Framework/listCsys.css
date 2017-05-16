@@ -1,0 +1,138 @@
+.styleCsys .groupeFiltre label {
+    margin-right: 4px;
+}
+
+.styleCsys .groupeFiltre:not(:last-child) {
+    margin-right: 9px;
+}
+
+.styleCsys .groupeFiltre, .zoneRecherche {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.styleCsys .groupeFiltre > div:last-child {
+    float: right;
+    margin-bottom: 0px;
+}
+
+.styleCsys .zoneRaffesh {
+    width: 40px;
+    padding: 5px;
+    padding-bottom: 7px;
+    margin-right: 4px;
+    cursor: pointer;
+    background-color: transparent;
+    border-width: 1px 1px 0px 1px;
+    border-color: transparent;
+    border-radius: 2px;
+    box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .05);
+}
+
+.styleCsys .zoneRaffesh {
+    cursor: default;
+    height: 33px;
+}
+
+.styleCsys .labelZoneFiltre {
+    cursor: default;
+    display: inline-block;
+    font-weight: 400;
+    padding: 7px 9px;
+    font-size: 13px;
+    padding-left: 0px;
+}
+
+.styleCsys .zoneFiltre {
+    width: calc(100% - 300px);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.styleCsys .header-list {
+    margin-bottom: 0px !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 0px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 0px;
+    /*background-color: #f1f1f1;*/
+}
+
+.styleCsys .body-list {
+    border-radius: 0px;
+}
+
+.styleCsys .groupeFiltre:last-child {
+    padding-right: 0px;
+}
+
+.styleCsys .zoneRecherche {
+    padding-left: 0px;
+    width: 200px;
+}
+
+.styleCsys .zoneButton {
+    padding-left: 0px;
+    width: 100px;
+}
+
+.styleCsys .ButtonPlus button {
+    width: 40px;
+    padding: 5px;
+    padding-bottom: 8px;
+    margin-right: 4px;
+    cursor: pointer;
+    background-color: transparent;
+    border-width: 1px 1px 0px 1px;
+    border-color: transparent;
+    border-radius: 2px;
+    box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .05);
+}
+
+.styleCsys .ButtonPlus button.disabled {
+    cursor: default;
+}
+
+.styleCsys .body-list, .body-list > table {
+    width: 100%;
+}
+
+.styleCsys .smart-form > fieldset > section {
+    margin-bottom: 0px;
+}
+
+.styleCsys .zoneRaffesh:not(.disabled):hover {
+    border: 1px solid #666;
+    border-width: 1px 1px 0px 1px;
+    background-color: #e0e0e0;
+    background-image: linear-gradient(to bottom, #f9f9f9 0%, #e0e0e0 100%);
+}
+
+.ButtonPlus .dropdown-menu > li > a:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #e0e0e0;
+}
+
+.styleCsys .ButtonPlus button:not(.disabled):hover {
+    border: 1px solid #666;
+    border-width: 1px 1px 0px 1px;
+    background-color: #e0e0e0;
+    background-image: linear-gradient(to bottom, #f9f9f9 0%, #e0e0e0 100%);
+    border-bottom-style: hidden !important;
+}
+
+.styleCsys .ButtonPlus.open button {
+    border: 1px solid #666 !important;
+    border-width: 1px 1px 0px 1px;
+    background-color: #e0e0e0;
+    background-image: linear-gradient(to bottom, #f9f9f9 0%, #e0e0e0 100%);
+    border-bottom-style: hidden !important;
+}

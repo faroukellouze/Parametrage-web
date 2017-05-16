@@ -1,0 +1,28 @@
+[{
+        "code": "EC",
+        "designationAr": "ECHOGRAPHIE"
+    }
+    , {
+        "code": "RS",
+        "designationAr": "RX STANDARDS"
+    },
+    {
+        "code": "RP",
+        "designationAr": "RX SPECIALISE"
+    },
+    {
+        "code": "RA04",
+        "designationAr": "RX SPECIALISE"
+    },
+    {
+        "code": "KT",
+        "designationAr": "EXAMEN CATHE 2"
+    },
+    {
+        "code": "RA07",
+        "designationAr": "EXAMEN CATHE1"
+    },
+    {
+        "code": "RI",
+        "designationAr": "Radiologie Interventionnelle"
+    }]

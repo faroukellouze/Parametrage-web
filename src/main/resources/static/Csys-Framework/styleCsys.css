@@ -1,0 +1,81 @@
+body.styleCsys .jarviswidget > div {
+    padding: 3px;
+    border: none;
+}
+
+body.styleCsys .jarviswidget > header {
+    border: 0px solid #C2C2C2;
+    background-color: #f1f1f1;
+    padding: 0px 3px;
+    /*padding-top: 5px;*/
+    height: 37px;
+}
+
+body.styleCsys .widget-body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #f1f1f1 !important;
+}
+
+body.styleCsys .borderLeftPrimary {
+    border-left-width: 4px;
+    border-left-color: #3276b1;
+}
+
+body.styleCsys .borderBottomPrimary {
+    border-bottom-width: 4px;
+    border-bottom-color: #3276b1;
+}
+
+body.styleCsys .borderLeftSuccess {
+    border-left-width: 4px;
+    border-left-color: #659265;
+}
+
+body.styleCsys .borderBottomSuccess {
+    border-bottom-width: 4px;
+    border-bottom-color: #659265;
+}
+
+body.styleCsys .borderLeftInfo {
+    border-left-width: 4px;
+    border-left-color: #4e7a8c;
+}
+
+body.styleCsys .borderBottomInfo {
+    border-bottom-width: 4px;
+    border-bottom-color: #4e7a8c;
+}
+
+body.styleCsys .borderLeftDanger {
+    border-left-width: 4px;
+    border-left-color: #900323;
+}
+
+body.styleCsys .borderBottomDanger {
+    border-bottom-width: 4px;
+    border-bottom-color: #900323;
+}
+
+body.styleCsys .borderLeftDarken {
+    border-left-width: 4px;
+    border-left-color: #404040;
+}
+
+body.styleCsys .borderLeftYellow {
+    border-left-width: 4px;
+    border-left-color: #b09b5b;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url('../fonts/RobotoCondensed-Regular.ttf');
+}
+
+body.styleCsys *:not(.fa):not(.glyphicon):not(b) {
+    font-family: roboto !important;
+}
+fieldset .dataTables_wrapper {
+    margin: 8px;
+}

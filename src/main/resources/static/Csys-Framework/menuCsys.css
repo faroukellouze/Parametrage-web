@@ -1,0 +1,336 @@
+a:focus {
+    outline: thin dotted;
+}
+
+a:hover,
+a:active {
+    outline: 0;
+}
+
+a,
+a code {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover,
+a:hover code {
+    color: #fff;
+}
+
+a:active,
+a:active code {
+    color: #fff;
+}
+
+/*==== 2.8 Tile Default ====*/
+.tile {
+    width: 120px;
+    height: 120px;
+    margin: 4px;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    background: #2c3e50;
+    color: #fff;
+    border-radius: 2px;
+}
+
+.tile:hover > a {
+    background: #415C76;
+}
+
+.tile:active > a {
+    background: #507191;
+}
+
+.tile a {
+    transition: background 0.5s ease;
+}
+
+.tile i, .tile img {
+    line-height: 120px;
+}
+
+.tile i, .tile .title {
+    line-height: 14px;
+    transition: all 0.5s ease;
+}
+
+.tile i {
+    font-size: 40px;
+}
+
+.tile .title {
+    font-size: 11px;
+}
+
+/*==== 2.10 Tile Content ====*/
+.tile .text, .tile .title, .tile .tilecontent .tile > i, .tile > a > i, .tile .caption, .tile .sub, .tile .title-right {
+    position: absolute;
+    margin: 0;
+}
+
+.tile .text, .tile .title, .tile .tilecontent .tile .caption, .tile .sub, .tile .title-right {
+    font-size: 14px;
+}
+
+/*==== 2.11 Tile Height ====*/
+.hs {
+    height: 52px;
+}
+
+.hs i, .hs img {
+    line-height: 52px;
+}
+
+.h1 {
+    height: 120px;
+}
+
+.h1 i, .h1 img {
+    line-height: 70px;
+}
+
+.h2 {
+    height: 256px;
+}
+
+.h2 i, .h2 img {
+    line-height: 256px;
+}
+
+.h3 {
+    height: 392px;
+}
+
+.h3 i, .h3 img {
+    line-height: 392px;
+}
+
+.h4 {
+    height: 528px;
+    line-height: 528px;
+}
+
+.h4 i, .h4 img {
+    line-height: 528px;
+}
+
+/*==== 2.12 Tile Width ====*/
+.ws {
+    width: 52px;
+}
+
+.w1 {
+    width: 120px;
+}
+
+.w2 {
+    width: 230px;
+}
+
+.w3 {
+    width: 392px;
+}
+
+.w4 {
+    width: 528px;
+}
+
+@media screen and (max-width: 785px) {
+    .w2 {
+        width: 190px !important;
+    }
+}
+
+/*==== 2.14 Tile Link ====*/
+.tile a {
+    color: #fff;
+}
+
+.tile .link {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    color: white;
+}
+
+/*==== 2.15 Tile Icon ====*/
+.tile i {
+    /*height:100%;*/
+    width: 33%;
+    text-align: center;
+    top: 0;
+    right: 0;
+}
+
+/*==== 2.16 Tile Title ====*/
+.tile .title {
+    left: 16px;
+    bottom: 8px;
+    font-family: Roboto;
+}
+
+.ws .title, .hs .title {
+    display: none;
+}
+
+.tile .sub {
+    right: 16px;
+    bottom: 8px;
+}
+
+.ws .title, .hs .title, .ws .sub, .ws .title {
+    display: none;
+}
+
+/*==== 2.20 Tile Colors ====*/
+.turquoise {
+    background: #16a085;
+}
+
+.turquoise:hover a {
+    background: #1abc9c;
+}
+
+.turquoise:active a {
+    background: #1DD7B2;
+}
+
+.green {
+    background: #27ae60;
+}
+
+.green:hover a {
+    background: #2ecc71;
+}
+
+.green:active a {
+    background: #59D98E;
+}
+
+.blue {
+    background: #2980b9;
+}
+
+.blue:hover a {
+    background: #3498db;
+}
+
+.blue:active a {
+    background: #52A7E0;
+}
+
+.purple {
+    background: #8e44ad;
+}
+
+.purple:hover a {
+    background: #9b59b6;
+}
+
+.purple:active a {
+    background: #AA71C1;
+}
+
+.yellow {
+    background: #f39c12;
+}
+
+.yellow:hover a {
+    background: #f1c40f;
+}
+
+.yellow:active a {
+    background: #F4CF3E;
+}
+
+.orange {
+    background: #d35400;
+}
+
+.orange:hover a {
+    background: #e67e22;
+}
+
+.orange:active a {
+    background: #EB9447;
+}
+
+.red {
+    background: #c0392b;
+}
+
+.red:hover a {
+    background: #e74c3c;
+}
+
+.red:active a {
+    background: #EB6A5C;
+}
+
+.brown {
+    background: #9B6B27;
+}
+
+.brown:hover a {
+    background: #B47B2D;
+}
+
+.brown:active a {
+    background: #C48731;
+}
+
+.gray {
+    background: #7f8c8d;
+    box-shadow: inset 0px 0px 1px 1px #95a5a6;
+}
+
+.gray:hover a {
+    background: #95a5a6;
+}
+
+.gray:active a {
+    background: #A6B4B5;
+}
+
+.black {
+    background: #000000;
+    box-shadow: inset 0px 0px 1px 1px #101010;
+}
+
+.black:hover a {
+    background: #101010;
+}
+
+.black:active a {
+    background: #202020;
+}
+
+.white {
+    background: #ECF0F1;
+    box-shadow: inset 0px 0px 1px 1px #fff;
+
+    color: #202020 !important;
+}
+
+.white .title, .white i, .white .caption-text {
+    color: #202020;
+}
+
+.white:hover > a {
+    background: #ECF0F1;
+}
+
+.white:active > a {
+    background: #fff;
+}
+
+.white .content a, .white .text {
+    color: black;
+}
+
+.white .title, .white a, .white .text, .white .text p, .white .link {
+    color: #202020 !important;
+}

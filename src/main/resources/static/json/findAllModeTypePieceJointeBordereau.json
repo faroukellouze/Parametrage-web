@@ -1,0 +1,66 @@
+[
+  {
+    "Code": "1",
+    "Designation": "CIN"
+  },
+  {
+    "Code": "10",
+    "Designation": "Carte PEC"
+  },
+  {
+    "Code": "11",
+    "Designation": "Demande médecin"
+  },
+  {
+    "Code": "12",
+    "Designation": "Note d honoraire"
+  },
+  {
+    "Code": "13",
+    "Designation": "Facture pharmacie externe"
+  },
+  {
+    "Code": "14",
+    "Designation": "Facture labo externe"
+  },
+  {
+    "Code": "15",
+    "Designation": "Ordonance médicale"
+  },
+  {
+    "Code": "16",
+    "Designation": "lettre confidentielle"
+  },
+  {
+    "Code": "17",
+    "Designation": "Rapport médicale (suite)"
+  },
+  {
+    "Code": "2",
+    "Designation": "CIN VERSO"
+  },
+  {
+    "Code": "3",
+    "Designation": "PASSEPORT"
+  },
+  {
+    "Code": "4",
+    "Designation": "LETTRE ADMISSION"
+  },
+  {
+    "Code": "5",
+    "Designation": "LETTRE PEC"
+  },
+  {
+    "Code": "6",
+    "Designation": "CARNET CNAM"
+  },
+  {
+    "Code": "8",
+    "Designation": "Rapport médicale"
+  },
+  {
+    "Code": "9",
+    "Designation": "Carte séjours"
+  }
+]

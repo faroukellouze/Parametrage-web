@@ -1,0 +1,30 @@
+[
+  {
+    "Code": "01",
+    "Designation": "Retenu 1.5% Sur TTC Facture"
+  },
+  {
+    "Code": "02",
+    "Designation": "Retenu 2.5% Sur TTC Facture"
+  },
+  {
+    "Code": "03",
+    "Designation": "Retenu 10% Sur TTC Facture"
+  },
+  {
+    "Code": "04",
+    "Designation": "Retenu 50% Sur TVA"
+  },
+  {
+    "Code": "05",
+    "Designation": "Retenu 5% Sur TTC Facture"
+  },
+  {
+    "Code": "06",
+    "Designation": "Retenu 1.5% Sur Montant Clinique"
+  },
+  {
+    "Code": "07",
+    "Designation": "Retenu 15% Sur TTC Facture"
+  }
+]

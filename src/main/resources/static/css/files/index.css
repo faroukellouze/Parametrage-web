@@ -1,0 +1,162 @@
+body {
+    direction: ltr;
+    background: url(../../img/mybg.png) #fff;
+}
+
+body.styleCsys section {
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.smart-form .input {
+    display: block;
+    font-weight: 400;
+}
+
+.smart-form .icon-append {
+    color: #A2A2A2;
+    border-color: #BDBDBD;
+    transition: border-color .3s;
+    right: 5px;
+    border-left-width: 1px;
+    border-left-style: solid;
+    position: absolute;
+    top: 5px;
+    width: 22px;
+    height: 22px;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.smart-form .input .icon-append + input {
+    padding-right: 37px;
+}
+
+.smart-form .tooltip-top-right {
+    bottom: 100%;
+    margin-bottom: 15px;
+}
+
+.smart-form .tooltip {
+    position: absolute;
+    z-index: 99999;
+    left: -9999px;
+    padding: 2px 8px 3px;
+    font-size: 11px;
+    line-height: 16px;
+    font-weight: 400;
+    background: rgba(0, 0, 0, .9);
+    color: #fff;
+    opacity: 0;
+    transition: margin .3s, opacity .3s;
+}
+
+.btn {
+    border-radius: 2px;
+    /* -webkit-border-radius: 2px; */
+    -moz-border-radius: 2px;
+    box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .05);
+}
+
+.containerBody {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+#authentification-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.authentBody {
+    display: flex;
+    flex-direction: row;
+}
+
+.logoClient {
+    flex-grow: 1;
+}
+
+.formContainer {
+    flex-grow: 2;
+}
+
+.containerBody > div {
+    width: 478px;
+    margin: 0 auto;
+}
+
+.containerBody > div > div {
+    background: #FFF;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    padding: 0px;
+    position: relative;
+    margin-top: 15px;
+}
+
+.authentHeader {
+    background: rgba(248, 248, 248, .9);
+    padding: 0px 15px;
+}
+
+.authentHeader > .logoCsys {
+    margin: 11px 0px;
+}
+
+.authentHeader > .choixLangue {
+    position: absolute;
+    right: 0px;
+    top: 7px;
+}
+
+.authentHeader .logoCsys img {
+    height: 40px;
+}
+
+.authentBody {
+    padding: 13px 13px 0px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.authentBody .logoClient {
+    text-align: center;
+    margin: 0px;
+}
+
+#login-form section:last-child {
+    margin-bottom: 0px;
+}
+
+.authentFooter {
+    background: rgba(248, 248, 248, .9);
+    padding: 15px;
+}
+
+.smart-form .col {
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.btn-primary {
+    border-color: transparent;
+}
+
+.smart-form .input input {
+    border-color: transparent;
+    border-bottom-color: #BDBDBD;
+}
+
+.smart-form .input:hover input {
+    border-color: transparent;
+    border-bottom-color: #5D98CC;
+}
+
+.smart-form .input input {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-radius: 0;
+}

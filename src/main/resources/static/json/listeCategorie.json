@@ -1,0 +1,852 @@
+[
+    {
+        "isIcu": true,
+        "designationEn": "Chambre d\u0027hospitalisation",
+        "designationAr": "Chambre d\u0027hospitalisation",
+        "prestationAccompagnant": {
+            "code": 245,
+            "codeSaisie": "G0004",
+            "designationEn": "coil removal/ازالة لولب",
+            "designationAr": "coil removal/ازالة لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSurveillance": {
+            "code": 245,
+            "codeSaisie": "G0004",
+            "designationEn": "coil removal/ازالة لولب",
+            "designationAr": "coil removal/ازالة لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSuivie": {
+            "code": 247,
+            "codeSaisie": "S0010",
+            "designationEn": "خراج تحت تخدير موضعي / I&D***",
+            "designationAr": "خراج تحت تخدير موضعي / I&D***",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": false,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 13,
+                "designation": "الجراحة العامة",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSejour": {
+            "code": 244,
+            "codeSaisie": "G0003",
+            "designationEn": "coil insertion/تركيب لولب",
+            "designationAr": "coil insertion/تركيب لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "code": "CL"
+    },
+    {
+        "isIcu": true,
+        "designationEn": "Chambre externe",
+        "designationAr": "Chambre externe",
+        "prestationAccompagnant": {
+            "code": 245,
+            "codeSaisie": "G0004",
+            "designationEn": "coil removal/ازالة لولب",
+            "designationAr": "coil removal/ازالة لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSurveillance": {
+            "code": 245,
+            "codeSaisie": "G0004",
+            "designationEn": "coil removal/ازالة لولب",
+            "designationAr": "coil removal/ازالة لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSuivie": {
+            "code": 247,
+            "codeSaisie": "S0010",
+            "designationEn": "خراج تحت تخدير موضعي / I&D***",
+            "designationAr": "خراج تحت تخدير موضعي / I&D***",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": false,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 13,
+                "designation": "الجراحة العامة",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSejour": {
+            "code": 244,
+            "codeSaisie": "G0003",
+            "designationEn": "coil insertion/تركيب لولب",
+            "designationAr": "coil insertion/تركيب لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "code": "EXTR"
+    }
+    , {
+        "isIcu": true,
+        "designationEn": "Lit de Rea",
+        "designationAr": "Lit de Rea",
+        "prestationAccompagnant": {
+            "code": 245,
+            "codeSaisie": "G0004",
+            "designationEn": "coil removal/ازالة لولب",
+            "designationAr": "coil removal/ازالة لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSurveillance": {
+            "code": 245,
+            "codeSaisie": "G0004",
+            "designationEn": "coil removal/ازالة لولب",
+            "designationAr": "coil removal/ازالة لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSuivie": {
+            "code": 247,
+            "codeSaisie": "S0010",
+            "designationEn": "خراج تحت تخدير موضعي / I&D***",
+            "designationAr": "خراج تحت تخدير موضعي / I&D***",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": false,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 13,
+                "designation": "الجراحة العامة",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSejour": {
+            "code": 244,
+            "codeSaisie": "G0003",
+            "designationEn": "coil insertion/تركيب لولب",
+            "designationAr": "coil insertion/تركيب لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "code": "REA"
+    }
+    , {
+        "isIcu": true,
+        "designationEn": "Lit USIC",
+        "designationAr": "Lit USIC",
+        "prestationAccompagnant": {
+            "code": 245,
+            "codeSaisie": "G0004",
+            "designationEn": "coil removal/ازالة لولب",
+            "designationAr": "coil removal/ازالة لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSurveillance": {
+            "code": 245,
+            "codeSaisie": "G0004",
+            "designationEn": "coil removal/ازالة لولب",
+            "designationAr": "coil removal/ازالة لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSuivie": {
+            "code": 247,
+            "codeSaisie": "S0010",
+            "designationEn": "خراج تحت تخدير موضعي / I&D***",
+            "designationAr": "خراج تحت تخدير موضعي / I&D***",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": false,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 13,
+                "designation": "الجراحة العامة",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSejour": {
+            "code": 244,
+            "codeSaisie": "G0003",
+            "designationEn": "coil insertion/تركيب لولب",
+            "designationAr": "coil insertion/تركيب لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "code": "USIC"
+    },
+    {
+        "isIcu": true,
+        "designationEn": "Chambre virtuelle",
+        "designationAr": "Chambre virtuelle",
+        "prestationAccompagnant": {
+            "code": 245,
+            "codeSaisie": "G0004",
+            "designationEn": "coil removal/ازالة لولب",
+            "designationAr": "coil removal/ازالة لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSurveillance": {
+            "code": 245,
+            "codeSaisie": "G0004",
+            "designationEn": "coil removal/ازالة لولب",
+            "designationAr": "coil removal/ازالة لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSuivie": {
+            "code": 247,
+            "codeSaisie": "S0010",
+            "designationEn": "خراج تحت تخدير موضعي / I&D***",
+            "designationAr": "خراج تحت تخدير موضعي / I&D***",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": false,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 13,
+                "designation": "الجراحة العامة",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "prestationSejour": {
+            "code": 244,
+            "codeSaisie": "G0003",
+            "designationEn": "coil insertion/تركيب لولب",
+            "designationAr": "coil insertion/تركيب لولب",
+            "codeBeneficiere": 2,
+            "autorisModifierPrix": false,
+            "demandeObligatoire": false,
+            "compteRendu": true,
+            "etage": true,
+            "facturation": false,
+            "sousTraitance": false,
+            "userCreate": "CSYS",
+            "dateCreate": null,
+            "actif": true,
+            "codeFamilleFacturation": {
+                "code": 1,
+                "codeFamilleSaisie": "F0001",
+                "designationAr": "العيادات الخارجية",
+                "memo": "",
+                "ordre": 1
+            },
+            "codeSousFamille": {
+                "code": 6,
+                "designation": "نساء و الولاده gyne",
+                "codeFamille": {
+                    "code": 3,
+                    "designationAr": "خدمات العيادات الداخلية",
+                    "prefixe": "E",
+                    "suffixe": 0
+                }
+            },
+            "tva": {
+                "tva": "0",
+                "numCompteComptable": ""
+            },
+            "codeTypePrestation": {
+                "code": 5,
+                "designation": "Service"
+            }
+        },
+        "code": "VRTL"
+    }
+]

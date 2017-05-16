@@ -1,0 +1,73 @@
+.styleCsys .dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 0px;
+    border-width: 0px;
+}
+
+.styleCsys .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    border-width: 0px;
+}
+
+.styleCsys td.highlight {
+    background-color: #ecf3f8;
+}
+
+.styleCsys td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.styleCsys td.txt-right {
+    text-align: right;
+}
+
+.dt-button-collection {
+    width: auto;
+}
+
+.styleCsys table.dataTable tbody th, table.dataTable tbody td {
+    padding: 3px 10px;
+}
+
+/*.styleCsys table.dataTable th.focus, table.dataTable td.focus {*/
+/*outline: 0px solid #3366FF;*/
+/*}*/
+
+.styleCsys .dataTables_scrollBody {
+    max-height: calc(100vh - 258px) !important;
+}
+
+div.dt-button-collection {
+    width: auto;
+}
+
+.styleCsys #bntContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.styleCsys .dataTable tbody .details-control:before {
+    color: #1293b8;
+}
+
+.styleCsys .form-inline .checkbox, .form-inline .radiobox {
+    width: 20px;
+    margin: 0 auto;
+}
+
+.styleCsys a.dt-button {
+    border-color: transparent;
+    background-image: linear-gradient(to bottom, transparent 0%, transparent 100%);
+    background-color: transparent;
+}
+
+table.dataTable thead .sorting,
+table.dataTable thead .sorting_asc,
+table.dataTable thead .sorting_desc {
+    background: none;
+}
+
+table.dataTable thead tr {
+    color: #1293b8;
+}

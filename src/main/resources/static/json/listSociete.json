@@ -1,0 +1,1037 @@
+[
+    {
+        "code": 1,
+        "codeSaisie": null,
+        "designation": "لجنة الجرحى و المصابين/ مصراته",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 1,
+                "codeTypeContact": {
+                    "code": 1,
+                    "designation": "Tel"
+                },
+                "valeur": "0"
+            },
+            {
+                "codeSociete": 1,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراتة"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 2,
+        "codeSaisie": null,
+        "designation": "مستشفى الصفوة الدولي",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 2,
+                "codeTypeContact": {
+                    "code": 1,
+                    "designation": "Tel"
+                },
+                "valeur": "0214837292"
+            },
+            {
+                "codeSociete": 2,
+                "codeTypeContact": {
+                    "code": 2,
+                    "designation": "Fax"
+                },
+                "valeur": "0214830491"
+            },
+            {
+                "codeSociete": 2,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "طرابلس/السياحية/سوق القيب شارع حسن مسعود"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 3,
+        "codeSaisie": null,
+        "designation": "شركة ليبيانا للاتصالات",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 3,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراتة"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 4,
+        "codeSaisie": null,
+        "designation": "شركة الثقة للتأمين",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 4,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراتة"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 5,
+        "codeSaisie": null,
+        "designation": "وزارة الصحة /إدارة شؤون الجرحي مصراتة",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 5,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراتة"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 6,
+        "codeSaisie": null,
+        "designation": "المجلس البلدي / مصراتة",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2016-01-08T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 6,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراتة"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 7,
+        "codeSaisie": null,
+        "designation": "الاشغال العامة",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 7,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراتة"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 8,
+        "codeSaisie": null,
+        "designation": "شركة الدليل الشافي",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2015-04-26T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 9,
+        "codeSaisie": null,
+        "designation": "اتحاد النقابات والروابط المهنية مصراته",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 9,
+                "codeTypeContact": {
+                    "code": 1,
+                    "designation": "Tel"
+                },
+                "valeur": "0914255003"
+            },
+            {
+                "codeSociete": 9,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراته"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 10,
+        "codeSaisie": null,
+        "designation": "شركة ليبيا للتامين/operations",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 11,
+        "codeSaisie": null,
+        "designation": "ادارة شؤون الجرحي بنغازي",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": false,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "معتز",
+        "dateCreation": "2016-03-26T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 11,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "بنغازي"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 12,
+        "codeSaisie": null,
+        "designation": "عرض مستشفى الصفوة الدولي",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 13,
+        "codeSaisie": null,
+        "designation": "المتحدة للتامين/operations",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 14,
+        "codeSaisie": null,
+        "designation": "القوة الثالثة / مصراته",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "",
+        "dateCreation": null,
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 15,
+        "codeSaisie": null,
+        "designation": "مستشفى الجزيرة",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "ADMIN",
+        "dateCreation": "2015-05-15T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 15,
+                "codeTypeContact": {
+                    "code": 1,
+                    "designation": "Tel"
+                },
+                "valeur": "0512635036"
+            },
+            {
+                "codeSociete": 15,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "طريق الجزيرة - مصراته"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 16,
+        "codeSaisie": null,
+        "designation": "مستشفى الحكمة",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "ADMIN",
+        "dateCreation": "2015-05-21T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 16,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراته"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 17,
+        "codeSaisie": null,
+        "designation": "شركة الينز للتأمين Allianz",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2015-05-23T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 18,
+        "codeSaisie": null,
+        "designation": "الجمعية الوطنية للأعمال الخيرية",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2015-12-04T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 19,
+        "codeSaisie": null,
+        "designation": "مصرف شمال إفريقيا",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "معتز",
+        "dateCreation": "2015-12-13T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 19,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراتة"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 20,
+        "codeSaisie": null,
+        "designation": "مصرف الإدخار للإستثمار العقاري",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2016-02-24T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 20,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراته"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 21,
+        "codeSaisie": null,
+        "designation": "لجنة دعم ثوار بنغازي و أهاليها",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2016-03-29T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 21,
+                "codeTypeContact": {
+                    "code": 1,
+                    "designation": "Tel"
+                },
+                "valeur": "0911505817"
+            },
+            {
+                "codeSociete": 21,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراتة"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 22,
+        "codeSaisie": null,
+        "designation": "تسعيرة مستشفى الصفوة",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2016-03-17T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 23,
+        "codeSaisie": null,
+        "designation": "شركة الصحاري ",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": false,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "ADMIN",
+        "dateCreation": "2016-03-21T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 24,
+        "codeSaisie": null,
+        "designation": "الهيئة العامة لصندوق التضامن الإجتماعي",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": false,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "ADMIN",
+        "dateCreation": "2016-03-21T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 25,
+        "codeSaisie": null,
+        "designation": "شركة ليبيا للإتصالات ",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": false,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2016-04-05T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 26,
+        "codeSaisie": null,
+        "designation": "مصرف الصحاري",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": false,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "ADMIN",
+        "dateCreation": "2016-05-03T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 26,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراته"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 27,
+        "codeSaisie": null,
+        "designation": "جرحي عملية البنيان المرصوص",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2016-08-17T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 27,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراته"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 28,
+        "codeSaisie": null,
+        "designation": "الكلية الجوية مصراته",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "منيب",
+        "dateCreation": "2016-06-07T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 28,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراته"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 29,
+        "codeSaisie": null,
+        "designation": "موظفين شركة ليبيا لتأمين",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": false,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": false,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "معتز",
+        "dateCreation": "2016-07-13T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [
+            {
+                "codeSociete": 29,
+                "codeTypeContact": {
+                    "code": 7,
+                    "designation": "Adresss"
+                },
+                "valeur": "مصراتة"
+            }
+        ],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 30,
+        "codeSaisie": null,
+        "designation": "موظفين شركة ليبيا لتأمين",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": true,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2016-07-15T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 31,
+        "codeSaisie": null,
+        "designation": "مصرف التجارة و التنمية ",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": false,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2016-08-29T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 32,
+        "codeSaisie": null,
+        "designation": "مصرف ليبيا المركزي",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": false,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2016-10-09T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    },
+    {
+        "code": 33,
+        "codeSaisie": null,
+        "designation": "عرض مستشفى الصفوة الدولي",
+        "seuilCredit": 0,
+        "seuilCreditAlerte": 0,
+        "timbre": true,
+        "delaisFacturation": 0,
+        "delaisReglement": 0,
+        "actif": false,
+        "rib": "",
+        "valeurTimbre": 0,
+        "niveauBordereau": "",
+        "userCreation": "admin",
+        "dateCreation": "2016-10-22T23:00:00.000+0000",
+        "codeBanque": null,
+        "codeModeReglement": null,
+        "codeSecteurActivite": {
+            "code": 1,
+            "designation": "شركات تأمين"
+        },
+        "pieceJointeBordereauSocieteCollection": [],
+        "contactSocieteCollection": [],
+        "responsableSocieteCollection": []
+    }
+]

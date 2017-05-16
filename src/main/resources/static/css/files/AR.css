@@ -1,0 +1,121 @@
+.control-label{
+    text-align: right!important;
+    font-weight: 400;
+    padding-top: 5px;
+    font-size: 16px;
+    color: black;
+    padding-right: 5px;
+    padding-left: 0px;
+}
+label input[type=checkbox].checkbox+span:before, label input[type=radio].radiobox+span:before {
+    margin-left: 7px;
+}
+input[type=number]{
+    direction: ltr;
+}
+table.table-bordered td:last-child, table.table-bordered th:last-child {
+    border-left-width: 0;
+    border-right-width: 1px;
+} 
+.selectCSys-container .select-choice .select-arrow {
+    display: inline-block;
+    width: 34px;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: initial!important;
+    top: 0px;
+    color: #32c5d2;
+    border-width: 0px;
+    background: #fff;
+}
+.selectCSys-container .select-choice > .select-chosen {
+    margin-left: 26px!important;
+    margin-right: 0px!important;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 12px;
+}
+.remove-responsable {
+    position: relative!important;
+    top: -12px!important;
+    background-color: white!important;
+    float: left!important;
+    color: red!important;
+    padding: 1px 3px 2px 3px!important;
+    right: -7px!important;
+}
+.remove-responsable:hover {
+    position: relative!important;
+    top: -12px;
+    background-color: white !important;
+    float: left!important;
+    padding: 1px 3px 2px 3px!important;
+    right: -7px!important;
+    color: #7d0404!important;
+}
+.modal-header .close{
+    float: left!important;
+}
+.modal-footer{
+    text-align: left;
+}
+.closeTab {
+    left: 7px!important;
+    right: inherit!important;
+}
+.groupeFiltre{
+    display: flex;
+}
+.dropdown-menu{
+    left: 0px!important;
+    right: inherit!important;
+}
+th{
+    text-align: right!important;
+}
+.fermer-aside:before{
+    content: "\f053"!important;
+}
+aside {
+    left:  0px;
+    top: 75px;
+    right: inherit;
+}
+aside > .header-aside {
+    padding: 0 32px 0 7px;
+}
+aside > .header-aside > .close-asidebar{
+    left: inherit;
+    right: 0px;
+    top: 7px;
+}
+aside.slideInRight{
+    animation-name: slideInLeft;
+}
+.table {
+    font-size: 14px!important;
+}
+.btn{
+    font-size: 15px!important;
+}
+.header-csys{
+    font-size: 16px!important;
+}
+aside > .header-aside h3 {
+    font-size: 16px!important;
+}
+.tile .text, .tile .title, .tile .tilecontent .tile .caption, .tile .sub, .tile .title-right{
+    font-size: 18px!important;
+}
+h1 small{
+    font-size: 20px!important;
+}
+.smart-form .input input, .smart-form .select select, .smart-form .textarea textarea{
+   font-size: 15px!important;
+}
+div.royal_tab > .tabs > div > .ui-tabs-nav{
+  font-size: 15px!important;  
+}

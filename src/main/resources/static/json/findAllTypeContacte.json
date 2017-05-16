@@ -1,0 +1,14 @@
+[
+  {
+    "Code": "01",
+    "Designation": "TEL"
+  },
+  {
+    "Code": "02",
+    "Designation": "EMAIL"
+  },
+  {
+    "Code": "03",
+    "Designation": "FAX"
+  }
+]

@@ -1,0 +1,361 @@
+[ {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "321P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "331P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "381P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "398P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "366P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "377P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "385P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "396P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "377P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "391P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "381P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "328P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "34566P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "377P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }, {
+        "codeEtage": {
+            "code": "P1",
+            "designationAr": "PREMIER"
+        },
+        "codeEtatChambre": {
+            "code": "3",
+            "designationAr": "Libre",
+            "designationFr": "Libre"
+        },
+        "codeCategorie": {
+            "isIcu": true,
+            "designationEn": "Chambre d\u0027hospitalisation",
+            "designationAr": "Chambre d\u0027hospitalisation",
+            "code": "CL"
+        },
+        "numeroChambre": "342P",
+        "codeService": {
+            "code": "BO",
+            "designation": "BLOC OPERATOIRE"
+        },
+        "virtuelle": false,
+        "nombreLit": 4,
+        "autoriseAccompagnant" :true
+    }]

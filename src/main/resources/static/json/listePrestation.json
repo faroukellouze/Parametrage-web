@@ -1,0 +1,333 @@
+[
+    {
+        "codePrestation": 1,
+        "codePrestationSaisie": "001",
+        "designationAr": "لجنة الجرحى و المصابين/ مصراته",
+        "designationEn": "The wounded and injured",
+        "actif": true,
+        "codeTypePrestation": {
+            "code": 1,
+            "designation": "Radiologie"
+        },
+        "codeSousFamille": {
+            "code": 1,
+            "designation": "RX SPECIALISE",
+            "codeFamille": {
+                "code": 1,
+                "designationFr": "FISTULOGRAPHIE"
+            }
+        },
+        "codeFamilleFacturation": {
+            "code": 1,
+            "designation": "Facturation"
+        },
+        "tva": {
+            "code": 1,
+            "designation": "6%"
+        },
+        "autorisModifPrix": true,
+        "demandeObligatoire": true,
+        "compteRendu": true,
+        "etage": true,
+        "facturation": true,
+        "sousTraitance": true
+    },
+    {
+        "codePrestation": 2,
+        "codePrestationSaisie": "002",
+        "designationAr": "لجنة الجرحى و المصابين/ مصراته",
+        "designationEn": "The wounded and injured",
+        "actif": true,
+        "codeTypePrestation": {
+            "code": 1,
+            "designation": "Radiologie"
+        },
+        "codeSousFamille": {
+            "code": 1,
+            "designation": "RX SPECIALISE",
+            "codeFamille": {
+                "code": 1,
+                "designationFr": "FISTULOGRAPHIE"
+            }
+        },
+        "codeFamilleFacturation": {
+            "code": 1,
+            "designation": "Facturation"
+        },
+        "tva": {
+            "code": 1,
+            "designation": "6%"
+        },
+        "autorisModifPrix": true,
+        "demandeObligatoire": true,
+        "compteRendu": true,
+        "etage": true,
+        "facturation": true,
+        "sousTraitance": true
+    },
+    {
+        "codePrestation": 3,
+        "codePrestationSaisie": "003",
+        "designationAr": "لجنة الجرحى و المصابين/ مصراته",
+        "designationEn": "The wounded and injured",
+        "actif": true,
+        "codeTypePrestation": {
+            "code": 1,
+            "designation": "Radiologie"
+        },
+        "codeSousFamille": {
+            "code": 1,
+            "designation": "RX SPECIALISE",
+            "codeFamille": {
+                "code": 1,
+                "designationFr": "FISTULOGRAPHIE"
+            }
+        },
+        "codeFamilleFacturation": {
+            "code": 1,
+            "designation": "Facturation"
+        },
+        "tva": {
+            "code": 1,
+            "designation": "9%"
+        },
+        "autorisModifPrix": false,
+        "demandeObligatoire": true,
+        "compteRendu": false,
+        "etage": true,
+        "facturation": true,
+        "sousTraitance": true
+    },
+    {
+        "codePrestation": 4,
+        "codePrestationSaisie": "004",
+        "designationAr": "لجنة الجرحى و المصابين/ مصراته",
+        "designationEn": "The wounded and injured",
+        "actif": true,
+        "codeTypePrestation": {
+            "code": 1,
+            "designation": "Radiologie"
+        },
+        "codeSousFamille": {
+            "code": 1,
+            "designation": "RX SPECIALISE",
+            "codeFamille": {
+                "code": 1,
+                "designationFr": "FISTULOGRAPHIE"
+            }
+        },
+        "codeFamilleFacturation": {
+            "code": 1,
+            "designation": "Facturation"
+        },
+        "tva": {
+            "code": 1,
+            "designation": "12%"
+        },
+        "autorisModifPrix": true,
+        "demandeObligatoire": false,
+        "compteRendu": true,
+        "etage": false,
+        "facturation": true,
+        "sousTraitance": true
+    },
+    {
+        "codePrestation": 5,
+        "codePrestationSaisie": "005",
+        "designationAr": "لجنة الجرحى و المصابين/ مصراته",
+        "designationEn": "The wounded and injured",
+        "actif": false,
+        "codeTypePrestation": {
+            "code": 1,
+            "designation": "Endoscopie"
+        },
+        "codeSousFamille": {
+            "code": 1,
+            "designation": "SOUS FAM ENDOSCOPIE",
+            "codeFamille": {
+                "code": 1,
+                "designationFr": "FAM ENDOSCOPIE"
+            }
+        },
+        "codeFamilleFacturation": {
+            "code": 1,
+            "designation": "Facturation"
+        },
+        "tva": {
+            "code": 1,
+            "designation": "12%"
+        },
+        "autorisModifPrix": true,
+        "demandeObligatoire": true,
+        "compteRendu": false,
+        "etage": true,
+        "facturation": true,
+        "sousTraitance": false
+    },
+    {
+        "codePrestation": 6,
+        "codePrestationSaisie": "006",
+        "designationAr": "لجنة الجرحى و المصابين/ مصراته",
+        "designationEn": "The wounded and injured",
+        "actif": true,
+        "codeTypePrestation": {
+            "code": 1,
+            "designation": "Endoscopie"
+        },
+        "codeSousFamille": {
+            "code": 1,
+            "designation": "SOUS FAM ENDOSCOPIE",
+            "codeFamille": {
+                "code": 1,
+                "designationFr": "FAM ENDOSCOPIE"
+            }
+        },
+        "codeFamilleFacturation": {
+            "code": 1,
+            "designation": "Facturation"
+        },
+        "tva": {
+            "code": 1,
+            "designation": "9%"
+        },
+        "autorisModifPrix": true,
+        "demandeObligatoire": true,
+        "compteRendu": false,
+        "etage": true,
+        "facturation": true,
+        "sousTraitance": false
+    },
+    {
+        "codePrestation": 7,
+        "codePrestationSaisie": "007",
+        "designationAr": "لجنة الجرحى و المصابين/ مصراته",
+        "designationEn": "The wounded and injured",
+        "actif": true,
+        "codeTypePrestation": {
+            "code": 1,
+            "designation": "Endoscopie"
+        },
+        "codeSousFamille": {
+            "code": 1,
+            "designation": "SOUS FAM ENDOSCOPIE",
+            "codeFamille": {
+                "code": 1,
+                "designationFr": "FAM ENDOSCOPIE 2"
+            }
+        },
+        "codeFamilleFacturation": {
+            "code": 1,
+            "designation": "Facturation"
+        },
+        "tva": {
+            "code": 1,
+            "designation": "12%"
+        },
+        "autorisModifPrix": true,
+        "demandeObligatoire": true,
+        "compteRendu": true,
+        "etage": true,
+        "facturation": true,
+        "sousTraitance": true
+    },
+    {
+        "codePrestation": 8,
+        "codePrestationSaisie": "008",
+        "designationAr": "لجنة الجرحى و المصابين/ مصراته",
+        "designationEn": "The wounded and injured",
+        "actif": true,
+        "codeTypePrestation": {
+            "code": 1,
+            "designation": "Endoscopie"
+        },
+        "codeSousFamille": {
+            "code": 1,
+            "designation": "SOUS FAM ENDOSCOPIE",
+            "codeFamille": {
+                "code": 1,
+                "designationFr": "FAM ENDOSCOPIE 2"
+            }
+        },
+        "codeFamilleFacturation": {
+            "code": 1,
+            "designation": "Facturation"
+        },
+        "tva": {
+            "code": 1,
+            "designation": "12%"
+        },
+        "autorisModifPrix": true,
+        "demandeObligatoire": true,
+        "compteRendu": true,
+        "etage": true,
+        "facturation": true,
+        "sousTraitance": true
+    },
+    {
+        "codePrestation": 9,
+        "codePrestationSaisie": "009",
+        "designationAr": "لجنة الجرحى و المصابين/ مصراته",
+        "designationEn": "The wounded and injured",
+        "actif": true,
+        "codeTypePrestation": {
+            "code": 1,
+            "designation": "Radiologie"
+        },
+        "codeSousFamille": {
+            "code": 1,
+            "designation": "fam enos 1",
+            "codeFamille": {
+                "code": 1,
+                "designationFr": "fam enos"
+            }
+        },
+        "codeFamilleFacturation": {
+            "code": 1,
+            "designation": "Facturation"
+        },
+        "tva": {
+            "code": 1,
+            "designation": "6%"
+        },
+        "autorisModifPrix": true,
+        "demandeObligatoire": true,
+        "compteRendu": false,
+        "etage": true,
+        "facturation": false,
+        "sousTraitance": true
+    },
+    {
+        "codePrestation": 10,
+        "codePrestationSaisie": "010",
+        "designationAr": "لجنة الجرحى و المصابين/ مصراته",
+        "designationEn": "The wounded and injured",
+        "actif": true,
+        "codeTypePrestation": {
+            "code": 1,
+            "designation": "Radiologie"
+        },
+        "codeSousFamille": {
+            "code": 1,
+            "designation": "fam enos 2",
+            "codeFamille": {
+                "code": 1,
+                "designationFr": "fam enos"
+            }
+        },
+        "codeFamilleFacturation": {
+            "code": 1,
+            "designation": "Facturation"
+        },
+        "tva": {
+            "code": 1,
+            "designation": "12%"
+        },
+        "autorisModifPrix": true,
+        "demandeObligatoire": true,
+        "compteRendu": false,
+        "etage": true,
+        "facturation": false,
+        "sousTraitance": true
+    }
+
+]

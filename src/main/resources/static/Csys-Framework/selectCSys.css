@@ -1,0 +1,230 @@
+
+/* style container selectCsys single */
+
+.selectCSys-container{
+    box-sizing: border-box;
+}
+.selectCSys-container {
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    zoom: 1;
+    vertical-align: middle;
+}
+.selectCSys-container .select-choice {
+    display: block;
+    height: 24px;
+    padding: 0 8px 0 8px;
+    overflow: hidden;
+    position: relative;
+    border: 0;
+    border-bottom: 1px solid #c2cad8;
+    white-space: nowrap;
+    line-height: 24px;
+    color: #444;
+    text-decoration: none;
+    background-clip: padding-box;
+    background-color: #fff;
+    cursor: pointer;
+}
+.selectCSys-container.openSelect .select-choice{
+    border: 1px solid  #32c5d2;
+    border-bottom-width: 0px;
+}
+.selectCSys-container .select-choice > .select-chosen {
+    margin-right: 26px;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 12px;
+}
+.selectCSys-container .select-choice .select-arrow {
+    display: inline-block;
+    width: 34px;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0px;
+    color: #32c5d2;
+    border-width: 0px;
+    background: #fff;
+}
+.selectCSys-container:not(.openSelect) .select-choice:hover .select-arrow {
+    background: rgba(34, 145, 234, 0.1);
+    color: black;
+}
+.selectCSys-container .select-choice:hover .select-arrow {
+    color: black;
+}
+.selectCSys-container .select-choice .select-arrow b {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    position: relative;
+    font-size: 20px;
+}
+.selectCSys-container .select-choice .select-arrow b:before {
+    content: "\f107";
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: block;
+}
+
+/* end style container selectCsys single */
+
+/* style container selectCsys multiple */
+
+.selectCSys-multiple-container {
+    position: relative;
+}
+.selectCSys-multiple-container > .selectCSys-selection-collection-container{
+    box-sizing: border-box;
+    background-color: white;
+    border: 1px solid #aaa;
+    cursor: text;
+    min-height: 30px;
+    width: 100%;
+}
+
+.selectCSys-multiple-container > .selectCSys-selection-collection-container > .selectCSys-selection-collection {
+    list-style: none;
+    margin: 0;
+    padding: 2px;
+    width: 100%;
+    max-height: 58px;
+    overflow-y: auto;
+    display: flex; 
+    flex-direction: row; 
+    flex-wrap: wrap;
+}
+.selectCSys-multiple-container > .selectCSys-selection-collection-container > .selectCSys-selection-collection > li.selectCSys-selection-choice {
+    background-color: rgba(231, 231, 231, 0.65);
+    border: 1px solid #aaa;
+    cursor: default;
+    margin: 2px;
+    padding: 0 5px;
+    list-style: none;
+    font-size: 13px;
+}
+.selectCSys-multiple-container > .selectCSys-selection-collection-container > .selectCSys-selection-collection > li.selectCSys-selection-choice > .selectCSys-selection-choice-remove {
+    color: #999;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    margin-right: 2px;
+}
+.selectCSys-multiple-dropdowncontainer{
+    position: relative;
+    top: -1px;
+}
+
+/* end style container selectCsys multiple */
+
+/* Style dropdown selectCSys */
+.dropdownCsys {
+    display: none;
+}
+.openSelectOnTop.openSelect > .select-choice {
+    border-top-width: 0px !important;
+    border-bottom-width: 1px !important;
+}
+.openSelect > .select-choice{
+    z-index: 999;
+}
+.select-choice{
+    z-index: 997;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys,
+.selectCSys-container.openSelect .dropdownCsys {
+    position: absolute;
+    display: block;
+    background-color: white;
+    /*box-shadow: 0 4px 5px rgba(0,0,0,.15);*/
+    width: 300px;
+    padding: 4px;
+    border: 1px solid  #32c5d2;  
+    z-index: 998;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys{
+    top: 0px;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.searchSelect,
+.selectCSys-container.openSelect .dropdownCsys > div.searchSelect{
+    margin-bottom: 3px;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.searchSelect > input,
+.selectCSys-container.openSelect .dropdownCsys > div.searchSelect > input{
+    border: 1px solid #5D98CC;
+    border-bottom-color: transparent;
+    box-shadow: 0 1px 0 #fff inset;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: #fff;
+    z-index: 105;
+    position: relative;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect > table,
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect > table{
+    width: 100%;
+    border: 1px solid #ddd;
+    margin-bottom: 4px;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect > table > thead ,
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect > table > thead {
+    border-bottom: 1px solid #ddd;
+    cursor: default;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect > table > thead > tr > th,
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect > table > tbody > tr > td,
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect > table > thead > tr > th,
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect > table > tbody > tr > td {
+    padding: 3px 5px;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect > table > thead > tr > th:not(:last-child),
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect > table > tbody > tr > td:not(:last-child),
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect > table > thead > tr > th:not(:last-child),
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect > table > tbody > tr > td:not(:last-child) {
+    border-right: 1px solid #ddd;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect > table > tbody > tr:hover,
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect > table > tbody > tr:hover {
+    background-color: #ecf3f8;
+    cursor: pointer;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect th , 
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div:nth-child(2) td,
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect th , 
+.selectCSys-container.openSelect .dropdownCsys > div:nth-child(2) td{
+    padding: 3px;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect table tbody,
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect table tbody {
+    display: block;
+    overflow-x: hidden;
+    max-height: 120px;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect thead, 
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect tbody tr,
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect thead, 
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect tbody tr {
+    display: table;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect table thead,
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect table thead {
+    width: calc(100% - 6px) !important;
+}
+.selectCSys-multiple-container.openSelect > .selectCSys-multiple-dropdowncontainer > .dropdownCsys > div.bodySelect table tbody tr,
+.selectCSys-container.openSelect .dropdownCsys > div.bodySelect table tbody tr {
+    width: 100%;
+}
+/* end style dropdown selectCSys */
+
+
+
+

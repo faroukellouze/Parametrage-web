@@ -1,0 +1,50 @@
+.add-contact{
+    background-color: transparent;
+    color: #1293b8;
+    padding: 5px;
+}
+.add-contact:hover {
+    background-color: transparent;
+    color: #1293b8;
+    text-decoration: underline #1293b8;
+}
+.add-responsable{
+    background-color: transparent;
+    color: #1293b8;
+    padding: 5px;
+}
+.add-responsable:hover {
+    background-color: transparent;
+    color: #1293b8;
+    text-decoration: underline #1293b8;
+}
+.remove-contact {
+    padding: 10px 10px 0px 10px;
+    color: red;
+}
+.remove-contact:hover {
+    padding: 10px 10px 0px 10px;
+    color: #7d0404;
+}
+.remove-responsable {
+    position: relative;
+    top: -12px;
+    background-color: white;
+    float: right;
+    color: red;
+    padding: 1px 3px 2px 3px;
+    right: 7px;
+}
+.remove-responsable:hover {
+    position: relative;
+    top: -12px;
+    background-color: white;
+    float: right;
+    padding: 1px 3px 2px 3px;
+    color: #7d0404;
+    right: 7px;
+}
+.fa-lg-csys{
+    font-size: 1em;
+    line-height: 1em;
+}
