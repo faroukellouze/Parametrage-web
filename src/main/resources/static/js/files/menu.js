@@ -1,4 +1,4 @@
-const url_base = "http://192.168.0.163:9000/api";
+const url_base = "http://127.0.0.1:9000/api";
 Tables = [];
 CORE.create_module("mainMenu", function (sb) {
     let div_menu;
